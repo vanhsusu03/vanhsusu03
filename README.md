@@ -42,4 +42,4 @@ ____________________________________________
  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vanhsusu03&show_icons=true&theme=dracula)               
 <!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=vanhsusu03&theme=dark&border_radius=4.4)](https://git.io/streak-stats)                                    -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vanhsusu03&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vanhsusu03&langs_count=8)](https://github.com/anuraghazra/github-readme-stats) -->
