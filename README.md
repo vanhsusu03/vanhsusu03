@@ -15,6 +15,7 @@
 
 # ________________________________________________________________________
 
+<div align="center"> A lazy boiz in UET </div>
 
 <div align="center">
 ____________________________________________
@@ -23,6 +24,8 @@ ____________________________________________
 
  </div>
  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vanhsusu03&show_icons=true&theme=dracula)        [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vanhsusu03&langs_count=20)](https://github.com/anuraghazra/github-readme-stats)          
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vanhsusu03&show_icons=true&theme=dracula) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vanhsusu03&layout=compact&size_weight=0.5&count_weight=1&langs_count=12&theme=)
+
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vanhsusu03&langs_count=20)](https://github.com/anuraghazra/github-readme-stats)          
                              
 
